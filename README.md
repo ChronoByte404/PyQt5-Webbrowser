@@ -1,4 +1,4 @@
-# PyQt5-Webbrowser
+# PyQt5 SAI Webbrowser
 
 A web browser designed taking advantage of the PyQt5 Python3 library. This has a direct URL bar which doubles as a search bar. The code was based on the code featured in a NeuralNine YouTube tutorial.
 
