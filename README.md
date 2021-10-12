@@ -1,5 +1,8 @@
 # PyQt5-Webbrowser
+
 A web browser designed taking advantage of the PyQt5 Python3 library. This has a direct URL bar which doubles as a search bar. The code was based on the code featured in a NeuralNine YouTube tutorial.
+
+Search history is recorded and stored in a .txt file which is created in the same directory as the file once a search has been performed.
 
 # Instructions
 
